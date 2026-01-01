@@ -85,7 +85,10 @@ Senior Software Engineer with **11+ years** of experience designing and building
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqeeDev&show_icons=true&theme=dark&hide_border=true)
+I focus on **quality over quantity**—building projects that demonstrate architectural thinking, clean code practices, and production-ready implementations. Each repository includes comprehensive documentation, proper testing structure, and real-world design patterns.
+
+*Open to collaborations on FinTech, microservices, and full-stack projects. Particularly interested in German tech companies building scalable systems.*
+
 
 ---
 
