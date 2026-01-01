@@ -98,9 +98,3 @@ I focus on **quality over quantity**—building projects that demonstrate archit
 💼 **LinkedIn**: [linkedin.com/in/mohsin-aqee](https://linkedin.com/in/mohsin-aqee)  
 📱 **Phone**: +49-1523-6673976  
 📍 **Location**: Berlin, Germany *(Open to on-site/hybrid across Germany)*
-
----
-
-**Focus**: Quality over quantity. Building projects that demonstrate architectural thinking, clean code practices, and production-ready implementations.
-
-*Open to collaborations on FinTech, microservices, and full-stack projects. Interested in German tech companies building scalable systems.*
