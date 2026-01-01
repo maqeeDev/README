@@ -1,94 +1,158 @@
 # Mohsin Aqee | Senior FullStack Software Engineer
 
-**Building scalable systems and modern applications** • FinTech & Enterprise Software • Berlin 🇩🇪
+🔧 Building scalable systems | FinTech Specialist | .NET Core | Angular | Berlin 🇩🇪
 
 ---
 
-## 🛠️ Skill Set
+## 🛠️ Technical Skills
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,angular,react,typescript,javascript,html5,css3,postgres,mongodb,mssql,redis,azure,docker,kubernetes,git,visualstudio,vscode,java,blazor" />
+### Languages & Core Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
+
+### Backend Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET Core 8/9" title=".NET Core 8/9"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS" title="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js"/>
+<img src="https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/WPF-Desktop-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="45"/>
+**ASP.NET MVC5 | MVVM | Windows Forms | Express.JS**
+
+### Frontend Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" title="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.JS" title="Next.JS"/>
+<img src="https://img.shields.io/badge/Blazor-Web-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap"/>
+**Razor | RxJS | Redux | jQuery | Chart.js | Kendo UI | AJAX | HTML5 | CSS3**
+
+### Databases & Data
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" title="Redis Cache"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="45" height="45" alt="Elasticsearch" title="Elasticsearch (ELK)"/>
+**T-SQL | Stored Procedures | LINQ | Entity Framework | NoSQL | RDBMS | ORM**
+
+### Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" title="Azure Cloud (IaaS/PaaS/SaaS)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes (K8s)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions / CI-CD"/>
+**Microsoft Dynamics 365 | Microsoft CRM | Azure CI/CD**
+
+### Tools & IDE
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio" title="Visual Studio 2022"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira" title="Jira"/>
+**MS SQL Server | MongoDB | PostgreSQL | SVN**
+
+### Architecture & Design
+- **Patterns**: Clean Architecture | CQRS | Domain-Driven Design (DDD) | Microservices | Event Sourcing | Design Patterns | SOLID Principles
+- **API Design**: REST API (XML/JSON) | GraphQL | WCF | SOAP | Swagger/OpenAPI
+- **Methodologies**: Agile | SDLC | TDD (Test-Driven Development) | Kanban
+
+### Specialized Technologies
+- **Message Queue**: RabbitMQ | Azure Service Bus
+- **Reporting**: RDLC Reports | Crystal Reports | JSONata
+- **CRM Solutions**: Microsoft Dynamics 365 | Dynamics CRM | CRM Plugins
+- **Testing**: Unit Testing | Integration Testing | Release Planning | Technical Documentation
+- **Configuration**: IIS Configuration
+- **AI & Pair Programming**: Claude AI | Cursor AI | AI Pair Programming
+
+### Core Specializations
+**✓ FinTech Systems** — Internet banking serving 5M+ users with 99% uptime  
+**✓ E-Commerce Solutions** — Magento & ShopifyPlus integrations at enterprise scale  
+**✓ Microservices Architecture** — Distributed systems design and optimization  
+**✓ Performance Optimization** — 25-40% improvements through tuning  
+**✓ System Design** — Large-scale applications with high concurrency  
+**✓ AI/ML Integration** — ML.NET solutions and automation  
 
 ---
 
 ## About Me
 
-Senior Software Engineer with **11+ years** of experience designing and building high-performance systems for FinTech, e-commerce, and enterprise applications. Currently leading distributed teams and architecting microservices-based solutions.
+11+ years building high-performance systems for FinTech, e-commerce, and enterprise solutions.
 
-**Specialization**: Full-stack development with deep expertise in backend architecture, microservices, and modern frontend frameworks. Track record of delivering systems at scale—from internet banking platforms serving **5M+ users** to AI-driven automation reducing manual work by **35%**.
+**Currently**: Senior Software Engineer at Mashreq Bank, leading distributed team and architecting NestJS-based integrations processing 15,000+ daily events.
 
-**Current Focus**: Based in Berlin, actively contributing to German tech ecosystem and seeking on-site/hybrid opportunities.
+**Track Record**: 
+- Architected internet banking systems serving **5M+ MENA users**
+- Built AI automation reducing support costs by **$100k+ annually**
+- Delivered e-commerce integrations driving **$150k+ revenue growth**
+- Optimized systems by **25-40%** through architectural improvements
+- Maintained **99% uptime** across production systems
+
+**Based in Berlin** - Seeking on-site/hybrid opportunities to contribute to German tech ecosystem.
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🏦 Currency Converter Web API
-**Enterprise-grade .NET Core microservice**
-- Clean Architecture | CQRS Pattern | Microservices
-- RESTful API with comprehensive error handling
-- [View Repository →](https://github.com/maqeeDev/currency-converter-api)
+**Enterprise-grade .NET Core microservice**  
+Clean Architecture | CQRS Pattern | RESTful API | Microservices  
+[Repository](https://github.com/maqeeDev/currency-converter-api) • [Docs](https://github.com/maqeeDev/currency-converter-api#readme)
 
 ### 🎨 Currency Converter Angular Frontend
-**Production-ready Angular application**
-- Angular 19 | TypeScript | RxJS | Responsive Design
-- Full-stack integration with backend API
-- [View Repository →](https://github.com/maqeeDev/currency-converter-frontend)
+**Production-ready Angular application**  
+Angular 19 | TypeScript | RxJS | Responsive Design  
+[Repository](https://github.com/maqeeDev/currency-converter-frontend) • [Docs](https://github.com/maqeeDev/currency-converter-frontend#readme)
 
 ---
 
 ## 🎯 Key Achievements
 
-| Achievement | Impact |
-|---|---|
-| **AI-Powered Automation** | ML.NET support portal reducing manual ticket processing by **35%**, saving **$100k+** annually |
-| **FinTech at Scale** | Internet banking systems serving **5M+ users**, processing 10,000+ daily transactions with 99% uptime |
-| **E-Commerce Growth** | Magento & ShopifyPlus integrations driving **15% revenue increase** ($150k+ annually) across 100+ clients |
-| **Performance Excellence** | Consistent **25-40% performance improvements** through architectural optimization |
-| **Team Leadership** | Leading distributed 4-person engineering team across EMEA/APAC regions |
+| Achievement | Impact | Context |
+|---|---|---|
+| **AI-Powered Automation** | 35% ticket automation, **$100k+** annual savings | Folio3 - ML.NET support portal |
+| **FinTech at Scale** | 5M+ users, 10k+ daily transactions, **99% uptime** | Veripark - Banking systems |
+| **E-Commerce Growth** | 15% revenue increase, **$150k+** annually | Folio3 - 100+ client integrations |
+| **Performance Excellence** | 25-40% improvements through optimization | Across all roles - tuning & architecture |
+| **Team Leadership** | 4-person distributed team (EMEA/APAC) | Mashreq Bank - Current |
 
 ---
 
 ## 💻 Professional Experience
 
 **Senior Software Engineer** @ Mashreq Bank *(Jul 2025 - Present)*
-- Leading distributed team, architecting NestJS-based CRM integrations processing 15,000+ daily events
-- Delivering ASP.NET Core features improving system performance by 25%
-- Team Leadership | System Architecture | Microservices
+- Leading distributed team across EMEA/APAC regions
+- Architecting NestJS-based CRM integrations (15,000+ daily events)
+- Delivering ASP.NET Core features improving performance by 25%
 
 **Senior Software Engineer** @ Folio3 *(May 2021 - Jul 2025)*
-- Developed AI-powered ticket resolution system, automated 35% of support operations
-- Built e-commerce integrations serving 100+ enterprise clients
-- AI/ML Integration | E-Commerce Solutions | Backend Architecture
+- AI-powered ticket resolution (35% automation, $100k+ savings)
+- E-commerce integrations at scale (100+ clients, $150k+ revenue)
+- Backend architecture and engineering practices leadership
 
 **Software Developer** @ Veripark *(Nov 2018 - May 2021)*
-- FinTech specialist building internet banking systems for MENA region
-- Optimized performance by 40%, maintained 99% system uptime
-- FinTech Systems | Performance Optimization | Database Tuning
+- FinTech specialist: Internet banking systems for MENA region
+- 40% performance optimization, 99% uptime maintenance
 
 **Software Engineer** @ Dyconsol & Shinersoft *(Jan 2017 - Oct 2018)*
-- Full-stack development across education platforms, taxation systems, and ERP solutions
-- Built core modules for enterprise systems handling large datasets
-- Full-Stack Development | System Design | Database Architecture
+- Full-stack development: Education platforms, taxation systems, ERP
 
-**Education**: Masters in Software Engineering, Bahria University
+**Education**: Masters in Software Engineering | Bahria University
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Working On
 
-- 🔧 Expanding modern full-stack portfolio with contemporary architecture patterns
-- 📚 Deep-diving into React ecosystems while maintaining Angular expertise  
+- 🔧 Building comprehensive portfolio projects demonstrating senior-level system design
+- 📚 Deepening React expertise while maintaining Angular mastery
 - 🇩🇪 Contributing to German tech community and FinTech ecosystem
-- 🏗️ Building comprehensive projects demonstrating senior-level system design
+- 🏗️ Advanced architecture patterns and distributed systems
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-I focus on **quality over quantity**—building projects that demonstrate architectural thinking, clean code practices, and production-ready implementations. Each repository includes comprehensive documentation, proper testing structure, and real-world design patterns.
-
-*Open to collaborations on FinTech, microservices, and full-stack projects. Particularly interested in German tech companies building scalable systems.*
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqeeDev&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
@@ -98,3 +162,9 @@ I focus on **quality over quantity**—building projects that demonstrate archit
 💼 **LinkedIn**: [linkedin.com/in/mohsin-aqee](https://linkedin.com/in/mohsin-aqee)  
 📱 **Phone**: +49-1523-6673976  
 📍 **Location**: Berlin, Germany *(Open to on-site/hybrid across Germany)*
+
+---
+
+**Focus**: Building projects that demonstrate architectural thinking, clean code, and production-ready implementations.
+
+*Open to collaborations on FinTech, microservices, and full-stack projects.*
