@@ -7,32 +7,32 @@
 ## 🛠️ Technical Skills
 
 ### Languages & Core Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java"/>
 
 ### Backend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET Core" title=".NET Core 8/9"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJS" title="NestJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.JS" title="Express.JS"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET Core" title=".NET Core 8/9"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-line.svg" width="50" height="50" alt="NestJS" title="NestJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" width="50" height="50" alt="Express.JS" title="Express.JS"/>
 
-**ASP.NET Core | ASP.NET MVC5 | WPF | Windows Forms | MVVM**
+<img src="https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/ASP.NET-MVC5-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/WPF-Desktop-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Windows-Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/MVVM-Pattern-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/>
 
 ### Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.JS" title="Next.JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.JS" title="Next.JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" title="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jquery/jquery-plain.svg" width="50" height="50" alt="jQuery" title="jQuery"/>
 
-**Blazor | Razor | RxJS | Redux | jQuery | Chart.js | Kendo UI | AJAX | HTML5 | CSS3**
+<img src="https://img.shields.io/badge/Blazor-Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Razor-Template-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/RxJS-Reactive-B7178C?style=flat-square&logo=reactivex&logoColor=white" height="50"/>  <img src="https://img.shields.io/badge/Chart.js-Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Kendo-UI-FF6B6B?style=flat-square&logo=telerik&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/AJAX-Communication-FFD700?style=flat-square&logo=javascript&logoColor=black" height="50"/>
 
 ### Databases & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" title="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" title="Redis Cache"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" alt="Elasticsearch" title="Elasticsearch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" title="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" title="Redis Cache"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" alt="Elasticsearch" title="Elasticsearch"/>
 
-**T-SQL | Stored Procedures | LINQ | Entity Framework | NoSQL | RDBMS | ORM**
+<img src="https://img.shields.io/badge/T--SQL-Scripts-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Stored-Procedures-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/LINQ-Query-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Entity-Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/NoSQL-Databases-47A248?style=flat-square&logo=mongodb&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/RDBMS-Design-4479A1?style=flat-square&logo=database&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/ORM-Patterns-47A248?style=flat-square&logo=database&logoColor=white" height="50"/>
 
 ### Cloud & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions" title="GitHub Actions"/>
 
-**Microsoft Dynamics 365 | Microsoft CRM | Azure CI/CD**
+<img src="https://img.shields.io/badge/Microsoft-Dynamics%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Microsoft-CRM-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="50"/> <img src="https://img.shields.io/badge/Azure-CI%2FCD-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="50"/>
 
 ### Tools & IDE
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" title="Visual Studio 2022"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" title="Jira"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" title="Visual Studio 2022"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" title="Jira"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="MS SQL Server" title="MS SQL Server"/>
 
-**MS SQL Server | MongoDB | PostgreSQL | SVN**
+<img src="https://img.shields.io/badge/SVN-Version%20Control-809CC9?style=flat-square&logo=subversion&logoColor=white" height="50"/>
 
 ### Architecture & Design
 Clean Architecture | CQRS | Domain-Driven Design (DDD) | Microservices | Event Sourcing | Design Patterns | SOLID Principles
@@ -47,21 +47,11 @@ RabbitMQ | Redis Cache | Elasticsearch (ELK) | JSONata
 Unit Testing | Integration Testing | TDD | Release Planning | Technical Documentation
 
 ### Additional Technologies
-RDLC Reports | Crystal Reports | IIS Configuration | AI Tools (Claude AI | Cursor AI)
+RDLC Reports | Crystal Reports | IIS Configuration | AI Tools (Claude AI, Cursor AI)
 
 ### Methodologies
 Agile | SDLC | Kanban | Test-Driven Development (TDD)
 
----
-
-## Specializations
-
-**✓ FinTech Systems** — Internet banking serving 5M+ users  
-**✓ E-Commerce Solutions** — Enterprise-scale integrations  
-**✓ Microservices Architecture** — Distributed systems design  
-**✓ Performance Optimization** — 25-40% improvements  
-**✓ System Design** — High-concurrency applications  
-**✓ AI/ML Integration** — Automation and intelligent systems
 ---
 
 ## About Me
@@ -97,13 +87,13 @@ Angular 19 | TypeScript | RxJS | Responsive Design
 
 ## 🎯 Key Achievements
 
-| Achievement | Impact | Context |
-|---|---|---|
-| **AI-Powered Automation** | 35% ticket automation, **$100k+** annual savings | Folio3 - ML.NET support portal |
-| **FinTech at Scale** | 5M+ users, 10k+ daily transactions, **99% uptime** | Veripark - Banking systems |
-| **E-Commerce Growth** | 15% revenue increase, **$150k+** annually | Folio3 - 100+ client integrations |
-| **Performance Excellence** | 25-40% improvements through optimization | Across all roles - tuning & architecture |
-| **Team Leadership** | 4-person distributed team (EMEA/APAC) | Mashreq Bank - Current |
+| Achievement | Impact |
+|---|---|
+| **AI-Powered Automation** | 35% ticket automation, **$100k+** annual savings |
+| **FinTech at Scale** | 5M+ users, 10k+ daily transactions, **99% uptime** |
+| **E-Commerce Growth** | 15% revenue increase, **$150k+** annually |
+| **Performance Excellence** | 25-40% improvements through optimization |
+| **Team Leadership** | 4-person distributed team (EMEA/APAC) |
 
 ---
 
@@ -136,12 +126,6 @@ Angular 19 | TypeScript | RxJS | Responsive Design
 - 📚 Deepening React expertise while maintaining Angular mastery
 - 🇩🇪 Contributing to German tech community and FinTech ecosystem
 - 🏗️ Advanced architecture patterns and distributed systems
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqeeDev&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
