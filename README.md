@@ -113,11 +113,6 @@ Angular 19 | TypeScript | RxJS | Responsive Design
 
 ## 💻 Professional Experience
 
-**Senior Software Engineer** @ Mashreq Bank *(Jul 2025 - Present)*
-- Leading distributed team across EMEA/APAC regions
-- Architecting NestJS-based CRM integrations (15,000+ daily events)
-- Delivering ASP.NET Core features improving performance by 25%
-
 **Senior Software Engineer** @ Folio3 *(May 2021 - Jul 2025)*
 - AI-powered ticket resolution (35% automation, $100k+ savings)
 - E-commerce integrations at scale (100+ clients, $150k+ revenue)
