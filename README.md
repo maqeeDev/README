@@ -72,7 +72,7 @@ Agile | SDLC | Kanban | Test-Driven Development (TDD)
 
 11+ years building high-performance systems for FinTech, e-commerce, and enterprise solutions.
 
-**Currently**: Senior Software Engineer at Mashreq Bank, leading distributed team and architecting NestJS-based integrations processing 15,000+ daily events.
+
 
 **Track Record**: 
 - Architected internet banking systems serving **5M+ MENA users**
